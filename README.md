@@ -12,7 +12,7 @@ Information Technology graduate based in Pretoria, South Africa, currently build
 - 🤝 Collaborative team player — contributed front-end work to *NeuroGrade*, a 12-member Agile group project building an AI-powered grading system
 
 ## What I'm Working On
-📁 **(PuseletsoPhiri/aws-bootcamp)** — a week-by-week log of a 12-week AWS bootcamp covering IAM, EC2, VPC networking, ECS/Fargate container deployments, RDS integration, S3/CloudFront, CloudWatch/CloudTrail, Route 53, Lambda, and real-world troubleshooting. Each week includes hands-on tasks, screenshots, issues encountered, and key takeaways.
+📁 **[AWS Cloud Bootcamp](https://github.com/PuseletsoPhiri/aws-bootcamp)** — a week-by-week log of a 12-week AWS bootcamp covering IAM, EC2, VPC networking, ECS/Fargate container deployments, RDS integration, S3/CloudFront, CloudWatch/CloudTrail, Route 53, Lambda, and real-world troubleshooting. Each week includes hands-on tasks, screenshots, issues encountered, and key takeaways.
 
 ## Technical Skills
 **Cloud:** AWS (IAM, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Lambda — in progress)
@@ -27,4 +27,4 @@ Information Technology graduate based in Pretoria, South Africa, currently build
 - 📍 City of Tshwane, Gauteng, South Africa
 
 ---
-*Currently learner-in-progress on AWS Cloud — check out my [bootcamp repo](../aws-cloud-bootcamp-2025) to follow along week by week.*
+*Currently learner-in-progress on AWS Cloud — check out my [bootcamp repo](https://github.com/PuseletsoPhiri/aws-bootcamp) to follow along week by week.*
