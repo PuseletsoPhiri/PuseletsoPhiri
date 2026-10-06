@@ -1,6 +1,6 @@
 # Hi, I'm Puseletso Phiri 👋
 
-Information Technology graduate based in Pretoria, South Africa, currently building hands-on skills in **AWS Cloud** through the CSN AWS Cloud Bootcamp — logging every week of the journey right here on GitHub. Also leaning on resources like [Learn to Cloud](https://learntocloud.guide) and the [AWS Skills Center](https://aws.amazon.com/training/skills-center/) educational programs to deepen my foundations along the way.
+Information Technology graduate based in Pretoria, South Africa, currently building hands-on skills in **AWS Cloud** through the CSN AWS Cloud Bootcamp — logging every week of the journey right here on GitHub. Also leaning on resources like [Learn to Cloud](https://learntocloud.guide), [NextWork](https://nextwork.ai/?chip=cloud-computing) and the [AWS Skills Center](https://aws.amazon.com/training/skills-center/) educational programs to deepen my foundations along the way.
 
 ## About Me
 - 🎓 BSc in Information Technology
