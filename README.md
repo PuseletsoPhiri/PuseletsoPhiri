@@ -1,21 +1,21 @@
 # Hi, I'm Puseletso Phiri 👋
 
-Information Technology graduate based in Pretoria, South Africa, currently building hands-on skills in **AWS Cloud** through the CSN AWS Cloud Bootcamp — logging every week of the journey right here on GitHub. Also leaning on resources like [Learn to Cloud](https://learntocloud.guide), the [AWS Skills Center](https://aws.amazon.com/training/skills-center/) educational programs, and [NextWork](https://www.nextwork.org) hands-on projects to deepen my foundations along the way.
+Information Technology graduate based in Pretoria, South Africa, who completed the hands-on tasks of the CSN AWS Cloud Bootcamp curriculum and documented every week on GitHub. Also supported by resources like [Learn to Cloud](https://learntocloud.guide), the [AWS Skills Center](https://aws.amazon.com/training/skills-center/) educational programs, and [NextWork](https://www.nextwork.org) hands-on projects to deepen my foundations.
 
 ## About Me
-- 🎓 BSc in Information Technology
-- 🏛️ IT Support Experiential Learner at the Department of Correctional Services, Gauteng. hands-on with Active Directory, network activity reporting, and IT service resolution via GLPI Helpdesk
-- ☁️ Currently deepening my focus on **AWS Cloud** — IAM, EC2, VPC, ECS, and networking fundamentals — through a structured 12-week bootcamp
+- 🎓 BSc in Information Technology — Richfield Graduate Institute of Technology (2025)
+- 🏛️ IT Support Experiential Learner at the Department of Correctional Services, Gauteng — hands-on with Active Directory, network activity reporting, and IT service resolution via GLPI Helpdesk
+- ☁️ Built hands-on **AWS Cloud** projects across IAM Identity Center, EC2, VPC networking, ECS, RDS, CloudWatch, S3/CloudFront, Route 53/ACM, and Lambda
 - 💻 Foundational programming knowledge across **Python, C#, Java, PHP, C++**, plus front-end work in **HTML, CSS, JavaScript**
 - 📊 Comfortable working with data and databases — MySQL, Microsoft Access, Excel for analysis and reporting
-- 🌱 No certifications yet actively working toward my first, starting with AWS fundamentals
-- 🤝 Collaborative team player, contributed front-end work to *NeuroGrade*, a 12-member Agile group project building an AI-powered grading system
+- 🌱 No certifications yet — actively working toward my first, starting with AWS fundamentals
+- 🤝 Collaborative team player — contributed front-end work to *NeuroGrade*, a 12-member Agile group project building an AI-powered grading system
 
-## What I'm Working On
-📁 **[AWS Cloud Bootcamp](https://github.com/PuseletsoPhiri/aws-bootcamp)** — a week-by-week log of a 12-week AWS bootcamp covering IAM, EC2, VPC networking, ECS/Fargate container deployments, RDS integration, S3/CloudFront, CloudWatch/CloudTrail, Route 53, Lambda, and real-world troubleshooting. Each week includes hands-on tasks, screenshots, issues encountered, and key takeaways.
+## Featured Project
+📁 **[AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/aws-cloud-portfolio)** — a week-by-week record of my AWS bootcamp tasks, covering IAM Identity Center, EC2, VPC peering, ECS/Fargate deployments, RDS integration, CloudWatch monitoring, S3/CloudFront hosting, a custom domain with Route 53 and HTTPS, and an event-driven Lambda function. Each week includes the task, what I did, issues I hit and how I fixed them, key takeaways, and screenshots.
 
 ## Technical Skills
-**Cloud:** AWS (IAM, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Lambda)
+**Cloud:** AWS (IAM, IAM Identity Center, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Route 53, ACM, Lambda)
 **Programming:** Python, C# (.NET), Java, PHP, C++
 **Web:** HTML, CSS, JavaScript
 **Data:** MySQL, Microsoft Access, Excel
@@ -27,4 +27,4 @@ Information Technology graduate based in Pretoria, South Africa, currently build
 - 📍 City of Tshwane, Gauteng, South Africa
 
 ---
-*Currently learner-in-progress on AWS Cloud — check out my [bootcamp repo](https://github.com/PuseletsoPhiri/aws-bootcamp) to follow along week by week.*
+*See my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/aws-cloud-portfolio) for the projects week by week.*
