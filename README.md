@@ -15,7 +15,7 @@ Information Technology graduate based in Pretoria, South Africa, currently build
 📁 **[AWS Cloud Bootcamp](https://github.com/PuseletsoPhiri/aws-bootcamp)** — a week-by-week log of a 12-week AWS bootcamp covering IAM, EC2, VPC networking, ECS/Fargate container deployments, RDS integration, S3/CloudFront, CloudWatch/CloudTrail, Route 53, Lambda, and real-world troubleshooting. Each week includes hands-on tasks, screenshots, issues encountered, and key takeaways.
 
 ## Technical Skills
-**Cloud:** AWS (IAM, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Lambda — in progress)
+**Cloud:** AWS (IAM, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Lambda)
 **Programming:** Python, C# (.NET), Java, PHP, C++
 **Web:** HTML, CSS, JavaScript
 **Data:** MySQL, Microsoft Access, Excel
