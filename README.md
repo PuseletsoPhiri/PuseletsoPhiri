@@ -8,6 +8,7 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 - ☁️ Built hands-on **AWS Cloud** projects across IAM Identity Center, EC2, VPC networking, ECS, RDS, CloudWatch, S3/CloudFront, Route 53/ACM, and Lambda
 - 💻 Foundational programming knowledge across **Python, C#, Java, PHP, C++**, plus front-end work in **HTML, CSS, JavaScript**
 - 📊 Comfortable working with data and databases — MySQL, Microsoft Access, Excel for analysis and reporting
+- 🔄 Currently working through [NextWork](https://www.nextwork.org) cloud projects to deepen my foundations
 - 🌱 No certifications yet — actively working toward my first, starting with AWS fundamentals
 - 🤝 Collaborative team player — contributed front-end work to *NeuroGrade*, a 12-member Agile group project building an AI-powered grading system
 
