@@ -30,7 +30,7 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 **Core:** Computer Networking, Data Governance & Security Compliance
 
 ## Let's Connect
-- 📧 khalabiphiri@protonmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/puseletso-phiri-705b79b9)
 - 🔗 [NextWork portfolio](https://nextwork.ai/portfolio/exuberant_purple_zany_armadillo)
 - 📍 City of Tshwane, Gauteng, South Africa
 
