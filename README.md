@@ -31,6 +31,7 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 
 ## Let's Connect
 - 📧 khalabiphiri@protonmail.com
+- 🔗 [NextWork portfolio](https://nextwork.ai/portfolio/exuberant_purple_zany_armadillo)
 - 📍 City of Tshwane, Gauteng, South Africa
 
 ---
