@@ -9,7 +9,8 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 - 💻 Foundational programming knowledge across **Python, C#, Java, PHP, C++**, plus front-end work in **HTML, CSS, JavaScript**
 - 📊 Comfortable working with data and databases — MySQL, Microsoft Access, Excel for analysis and reporting
 - 🤖 Completed NextWork's AI Beginner Roadmap projects: a landing page shipped with v0 and Vercel, a calendar automation workflow in n8n, and a multi-agent blog writing crew with CrewAI
-- 🔄 Currently working through [NextWork](https://www.nextwork.org) cloud and AI projects to deepen my foundations
+- 🌐 Completed [NextWork](https://www.nextwork.org) cloud projects on S3 website hosting, IAM security, and VPC networking, including subnets, peering, Flow Logs, and accessing S3 from a VPC
+- 🔄 Currently working through NextWork's database projects with Aurora and DynamoDB
 - 🤝 Collaborative team player — contributed front-end work to *NeuroGrade*, a 12-member Agile group project building an AI-powered grading system
 
 ## Featured Projects
@@ -17,8 +18,10 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 
 🤖 **[NextWork AI Projects](https://github.com/PuseletsoPhiri/nextwork-ai-projects)** — three beginner AI projects: an e-commerce landing page generated with v0 and deployed on Vercel, an n8n workflow that books Google Calendar events from a chat message, and a CrewAI multi-agent crew (Researcher, Writer, Editor, plus a Social Media Manager) that writes blog posts and social content.
 
+☁️ **[NextWork Cloud Projects](https://github.com/PuseletsoPhiri/nextwork-cloud-projects)** — hands-on AWS projects from NextWork's Cloud Engineer Roadmap: S3 website hosting, IAM security, and an eight-part VPC series covering subnets, traffic flow and security, peering, Flow Logs, and accessing S3 from a VPC. The database projects are in progress.
+
 ## Technical Skills
-**Cloud:** AWS (IAM, EC2, VPC, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Route 53, ACM, Lambda)
+**Cloud:** AWS (IAM, EC2, VPC with peering and Flow Logs, ECS/Fargate, RDS, S3, CloudFront, CloudWatch, Route 53, ACM, Lambda)
 **AI & Automation:** n8n, CrewAI, v0, Vercel, Google Gemini API, prompt writing
 **Programming:** Python, C# (.NET), Java, PHP, C++
 **Web:** HTML, CSS, JavaScript
@@ -31,4 +34,4 @@ Information Technology graduate based in Pretoria, South Africa, who completed t
 - 📍 City of Tshwane, Gauteng, South Africa
 
 ---
-*See my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/aws-cloud-portfolio) and [NextWork AI Projects](https://github.com/PuseletsoPhiri/nextwork-ai-projects) for the full write-ups.*
+*See my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/aws-cloud-portfolio), [NextWork Cloud Projects](https://github.com/PuseletsoPhiri/nextwork-cloud-projects), and [NextWork AI Projects](https://github.com/PuseletsoPhiri/nextwork-ai-projects) for the full write-ups.*
